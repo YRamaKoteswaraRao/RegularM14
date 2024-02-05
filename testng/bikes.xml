@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="TestNgBPG1.Day40YamahaBikeTask"/>
+      <class name="TestNgBPG1.Day40KTMTask"/>
+      <class name="TestNgBPG1.Day40HondaBikeTask"/>
+      <class name="TestNgBPG1.Day40BajajBikeTask"/>
+      <class name="TestNgBPG1.Day40TVSBikesAssignment"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
